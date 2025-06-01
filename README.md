@@ -62,7 +62,7 @@ An MCP server  that empowers AI agents to inspect any wallet’s balance and onc
        }
     }
     ```
-    Replace `/path/to/chainlist-mcp` with your actual installation path, and `your_dune_sim_api_key_here` with your Dune SIM API key.
+    Replace `/path/to/wallet-inspector-mcp` with your actual installation path, and `your_dune_sim_api_key_here` with your Dune SIM API key.
 
 ## Usage
 

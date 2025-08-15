@@ -6,6 +6,8 @@ An MCP server  that empowers AI agents to inspect any wallet’s balance and onc
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/kukapay/wallet-inspector-mcp)](https://archestra.ai/mcp-catalog/kukapay__wallet-inspector-mcp)
+
 ## Features
 
 - **Multi-Chain Support**: Queries Solana, Ethereum, Polygon, Binance Smart Chain (BSC), Base, Arbitrum and more.

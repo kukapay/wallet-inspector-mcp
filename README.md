@@ -1,10 +1,14 @@
 # Wallet Inspector MCP
 
-An MCP server  that empowers AI agents to inspect any wallet’s balance and onchain activity across major EVM chains and Solana chain.
+An MCP server  that empowers AI agents to inspect any wallet's balance and onchain activity across major EVM chains and Solana chain.
 
 ![GitHub License](https://img.shields.io/github/license/kukapay/wallet-inspector-mcp)
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+
+<a href="https://glama.ai/mcp/servers/@kukapay/wallet-inspector-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/wallet-inspector-mcp/badge" alt="wallet-inspector-mcp MCP server" />
+</a>
 
 ## Features
 

@@ -11,6 +11,10 @@ An MCP server  that empowers AI agents to inspect any wallet’s balance and onc
 - **Multi-Chain Support**: Queries Solana, Ethereum, Polygon, Binance Smart Chain (BSC), Base, Arbitrum and more.
 - **Flexible Output**: Balances in ASCII tables, activities and transactions in structured text.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/kukapay-wallet-inspector-mcp).
+
 ## Installation
 
 ### Prerequisites
